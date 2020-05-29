@@ -1,3 +1,3 @@
-"# Facial-Expression-Detection-with-Keras-and-open-cv" 
-At first,you have to download FER dataset.Then train the model.
+# Facial Expression Detection with Keras and opencv  
+At first,you have to download FER dataset. Then train the model.
 
